@@ -9,7 +9,7 @@ Test to make sure that exceptions were being thrown.
 
 2.  What did you not anticipate (e.g. time allocation, test cases,
     algorithms, methods)?
-   I did not anticipate how the exceptions flowed threw the code. 
+   I did not anticipate how the exceptions flowed through the code. 
    I'd get an exception and think it was in Anytown, but it was 
    actually occuring in one of the media classes. 
    I learned a lot about how the code is executed. 
